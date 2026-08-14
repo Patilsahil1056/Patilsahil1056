@@ -45,9 +45,9 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| 📊 **[ML Predictive Model](https://github.com/YOUR_GITHUB_USERNAME)** | End-to-end machine learning pipeline for predictive analytics. | Python, Scikit-Learn, Pandas |
-| 🤖 **[GenAI Data Assistant](https://github.com/YOUR_GITHUB_USERNAME)** | Conversational assistant leveraging LLMs for automated data exploration. | Python, PyTorch, Streamlit |
-| 📈 **[Interactive Data Dashboard](https://github.com/YOUR_GITHUB_USERNAME)** | Dynamic visual dashboards summarizing complex relational datasets. | Power BI, SQL, Seaborn |
+| 📊 **[ML Predictive Model](https://github.com/Patilsahil1056)** | End-to-end machine learning pipeline for predictive analytics. | Python, Scikit-Learn, Pandas |
+| 🤖 **[GenAI Data Assistant](https://github.com/Patilsahil1056)** | Conversational assistant leveraging LLMs for automated data exploration. | Python, PyTorch, Streamlit |
+| 📈 **[Interactive Data Dashboard](https://github.com/Patilsahil1056)** | Dynamic visual dashboards summarizing complex relational datasets. | Power BI, SQL, Seaborn |
 
 ---
 
@@ -63,13 +63,13 @@
 ## 🌐 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+  <a href="https://linkedin.com/in/sahil-patil-b90a8b332" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your_email@gmail.com">
+  <a href="mailto:patilsahil1056@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://kaggle.com/YOUR_KAGGLE_USERNAME" target="_blank">
+  <a href="https://kaggle.com/patilsahil1056" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
   </a>
 </p>
