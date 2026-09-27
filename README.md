@@ -38,16 +38,6 @@
 
 ---
 
-## 📌 Featured Projects
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| 📊 **[ML Predictive Model](https://github.com/Patilsahil1056)** | End-to-end machine learning pipeline for predictive analytics. | Python, Scikit-Learn, Pandas |
-| 🤖 **[GenAI Data Assistant](https://github.com/Patilsahil1056)** | Conversational assistant leveraging LLMs for automated data exploration. | Python, PyTorch, Streamlit |
-| 📈 **[Interactive Data Dashboard](https://github.com/Patilsahil1056)** | Dynamic visual dashboards summarizing complex relational datasets. | Power BI, SQL, Seaborn |
-
----
-
 ## 📊 GitHub Analytics
 
 <p align="center">
