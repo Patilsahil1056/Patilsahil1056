@@ -38,15 +38,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Patilsahil1056&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Patilsahil1056&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
----
-
 ## 🌐 Connect with Me
 
 <p align="left">
